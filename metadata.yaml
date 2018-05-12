@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5032
     wikipedia: http://en.wikipedia.org/wiki/Nikolai_Velimirovic
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15891#Franz-sisch-slavische-K-mpfe-in-der-Bocca-di-Cattaro-1806-1814.
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2005-05-24'
 gutenberg_type: Text
